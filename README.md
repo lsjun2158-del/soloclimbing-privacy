@@ -1,6 +1,6 @@
 # Solo Climbing — 개인정보처리방침
 
-Android 앱 **Solo Climbing** 의 개인정보처리방침을 게시하기 위한 저장소입니다.
+Solo Climbing 앱(Android · iPhone)의 개인정보처리방침을 게시하기 위한 저장소입니다.
 앱 소스는 여기 없습니다.
 
 - 게시 페이지: `index.html`
