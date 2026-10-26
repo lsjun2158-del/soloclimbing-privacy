@@ -1,12 +1,12 @@
-# Solo Climbing — 개인정보처리방침
+# Solo Climbing — 개인정보처리방침 (옛 주소)
 
-Solo Climbing 앱(Android · iPhone)의 개인정보처리방침을 게시하기 위한 저장소입니다.
-앱 소스는 여기 없습니다.
+**2026-10-26 부터 방침은 <https://welcomemyworld.dev/soloclimbing/privacy/> 에 있습니다.**
+본문 HTML 은 앱 저장소 `docs/devsite/soloclimbing/privacy/index.html` 이고, 정본은 `docs/PRIVACY.md` 입니다.
 
-- 게시 페이지: `index.html`
-- 본문 정본: 앱 저장소의 `docs/PRIVACY.md`
+이 저장소(`soloclimbing-privacy`, 주소 `welcomemyworld.dev/soloclimbing-privacy/`)는 **새 주소로 넘기는 페이지만** 남깁니다.
+App Store · Meta 등록에 옛 주소가 남아 있어도 열리게 하려는 것이니 **지우지 않습니다.**
 
 ## 고칠 때
 
-`docs/PRIVACY.md` 를 먼저 고치고, 거기서 다시 만든 `index.html` 을 올립니다.
-**여기서 직접 고치면 앱 저장소의 본문과 어긋납니다.**
+방침 내용은 `docs/PRIVACY.md` → `docs/devsite/soloclimbing/privacy/index.html` → 사이트 저장소에 올립니다.
+이 저장소는 넘김 페이지라 고칠 일이 없습니다.
